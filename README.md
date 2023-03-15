@@ -28,7 +28,7 @@ A summary statistics table was created to show the weight capabilities of suspen
 
 Below are the results of all production lots:
 
-![Production lots]()
+![Production lots](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/All_Lots.png)
 
 Below are the results from lots 1-3, respectively:
 ![Lot1]()
