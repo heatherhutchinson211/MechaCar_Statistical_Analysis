@@ -24,7 +24,16 @@ A linear regression model was then created to show to p-value and r-squared valu
 
 ## Summary Statistics on Suspension Coil
 
+A summary statistics table was created to show the weight capabilities of suspension coils from all production lots, as well as each lot individually.  
 
+Below are the results of all production lots:
+
+![Production lots]()
+
+Below are the results from lots 1-3, respectively:
+![Lot1]()
+![Lot2]()
+![Lot3]()
 
 ## T-Tests on Suspension Coils
 
