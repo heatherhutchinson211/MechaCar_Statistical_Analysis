@@ -10,7 +10,7 @@ Below is the results of the linear regression:
 ![Linear Regression](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Linear_Regression.png)
 
 A linear regression model was then created to show to p-value and r-squared value, as shown below:
-![Values]()
+![Values](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Linear_Regression_Summary.png)
 
 
 ## Summary Statistics on Suspension Coil
