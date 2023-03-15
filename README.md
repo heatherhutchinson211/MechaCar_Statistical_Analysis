@@ -49,5 +49,7 @@ Here are the results from lots 1-3, respectively:
 
 ![Lot1](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lot1.png)
 ![Lot2](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lot2.png)
-![Lot3]()
+![Lot3](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lot3.png)
+
+
 ## Study Design: MechaCar vs Competition
