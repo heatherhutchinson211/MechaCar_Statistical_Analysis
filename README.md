@@ -30,7 +30,7 @@ Below are the results of all production lots:
 
 ![Production lots](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/All_Lots.png)
 
-Below are the results from lots 1-3, respectively:
+Below are the results from lots 1-3:
 ![Lots1-3](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lots_1-3.png)
 
 ### Analysis of Summary Statistics
@@ -40,7 +40,13 @@ Below are the results from lots 1-3, respectively:
 ## T-Tests on Suspension Coils
 
 I then performed t-tests on the same data in order to determine whether or not the lots were statistically different from the population mean of 1500 pounds per square inch.  This was analyzed among all of the lots together as well as each lot individually. 
-![All Lots]()
+Below are the results of the t-test for all lots:
+
+![All Lots](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lots_TTest.png)
+
+
+Here are the results from lots 1-3, respectively:
+
 ![Lot1]()
 ![Lot2]()
 ![Lot3]()
