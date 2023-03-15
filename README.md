@@ -48,6 +48,6 @@ Below are the results of the t-test for all lots:
 Here are the results from lots 1-3, respectively:
 
 ![Lot1](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lot1.png)
-![Lot2]()
+![Lot2](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Lot2.png)
 ![Lot3]()
 ## Study Design: MechaCar vs Competition
