@@ -6,7 +6,7 @@ This project is designed to analyze production data from 50 different prototypes
 ## Linear Regression to Predict MPG
 A linear regression was performed on the data from the 50 different Mecha Car prototypes. The model analyzes vehicle length, vehicle weight, spoiler angle, ground clearance, AWD capability, and MPG from each prototype. 
 
-Below is the results of the linear regression:
+Below are the results of the linear regression:
 
 ![Linear Regression](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Linear_Regression.png)
 
