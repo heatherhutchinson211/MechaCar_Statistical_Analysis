@@ -25,7 +25,7 @@ Although the slopes of osme of the variables were close to 0, none of them were 
 
 -Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-Considering the data provided, the R-squared value signifies an effective prediction of mpg of the MechaCar.  Still, there may be other factors that would contribute to the mog of the car, that were not included in the dataset. 
+Considering the data provided, the R-squared value signifies an effective prediction of mpg of the MechaCar.  Still, there may be other factors that would contribute to the mpg of the car, that were not included in the dataset. 
 
 ## Summary Statistics on Suspension Coil
 
@@ -66,10 +66,17 @@ It follows from the data that Lots 1 and 2 are statistically significant as they
 In the future, it would be beneficial to compare the results of the Mecha Car with cars from competing manufacturers. This analsis could include the above data, as well as highway fuel efficiency, city fuel efficiency, cost, and safety ratings. 
 
 -What metric or metrics are you going to test?
+
 I would test the fuel efficiency, cost, safety rating, car length, mpg, and ground clearance of each car.  
+
 -What is the null hypothesis or alternative hypothesis?
+
 The null hypothesis would be that if you analyzed the data of each car based on the above factors, no car would be better in quality than another.  The alternative hypothesis would be that if you analyzed the data of each car based on the above factors, one car would be better in quality than the others. 
+
 -What statistical test would you use to test the hypothesis? And why?
+
 I would again create a linear regression as well as summary statistics and t-tests to compare models of cars from various manufacturers. 
+
 -What data is needed to run the statistical test?
-The data that is needed is fuel efficiency, cost, safety rating, car length, mpg, and ground clearance of the MechaCar as well as the other various cars.  There should probably be a sample of at least 50 in order to provide accurate results. 
+
+The data that is needed is fuel efficiency, cost, safety rating, car length, mpg, and ground clearance of the MechaCar as well as the other various cars.  There should be a sample of at least 50 in order to provide accurate results. 
