@@ -15,15 +15,15 @@ A linear regression model was then created to show to p-value and r-squared valu
 ![Values](https://github.com/heatherhutchinson211/MechaCar_Statistical_Analysis/blob/main/Linear_Regression_Summary.png)
 
 ### Analysis of Linear Regression Models
--Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+**-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
 
 Since we used a 95% confidence interval, any variable with a variance less than 0.5 would provide non-random and statistically significant variance.  In this model, mpg, vehicle length and ground clearance were statistically significant.
 
--Is the slope of the linear model considered to be zero? Why or why not?
+**-Is the slope of the linear model considered to be zero? Why or why not?**
 
 Although the slopes of osme of the variables were close to 0, none of them were exactly 0, so the slope of the linear model would not be considered 0. 
 
--Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+**-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
 Considering the data provided, the R-squared value signifies an effective prediction of mpg of the MechaCar.  Still, there may be other factors that would contribute to the mpg of the car, that were not included in the dataset. 
 
@@ -40,8 +40,7 @@ Below are the results from lots 1-3:
 
 ### Analysis of Summary Statistics
 
--The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-
+**-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
 As far as all lots combined, the variance came out to be about 62.  Since 62<100, this manufacturing data meets the design specifications.  However, when analyzing each lot on its own, it is clear that lot 3 does not meet the specifications as its variance is 170.  Lot 1 had a variance of about 1, and lot 2 had a variance of 7; therefore, lots 1 and 2 definitely meet the design specifications. 
 
 
@@ -65,18 +64,18 @@ It follows from the data that Lots 1 and 2 are statistically significant as they
 
 In the future, it would be beneficial to compare the results of the Mecha Car with cars from competing manufacturers. This analsis could include the above data, as well as highway fuel efficiency, city fuel efficiency, cost, and safety ratings. 
 
--What metric or metrics are you going to test?
+**-What metric or metrics are you going to test?**
 
 I would test the fuel efficiency, cost, safety rating, car length, mpg, and ground clearance of each car.  
 
--What is the null hypothesis or alternative hypothesis?
+**-What is the null hypothesis or alternative hypothesis?**
 
 The null hypothesis would be that if you analyzed the data of each car based on the above factors, no car would be better in quality than another.  The alternative hypothesis would be that if you analyzed the data of each car based on the above factors, one car would be better in quality than the others. 
 
--What statistical test would you use to test the hypothesis? And why?
+**-What statistical test would you use to test the hypothesis? And why?**
 
 I would again create a linear regression as well as summary statistics and t-tests to compare models of cars from various manufacturers. 
 
--What data is needed to run the statistical test?
+**-What data is needed to run the statistical test?**
 
 The data that is needed is fuel efficiency, cost, safety rating, car length, mpg, and ground clearance of the MechaCar as well as the other various cars.  There should be a sample of at least 50 in order to provide accurate results. 
