@@ -21,7 +21,7 @@ Since we used a 95% confidence interval, any variable with a variance less than 
 
 **-Is the slope of the linear model considered to be zero? Why or why not?**
 
-Although the slopes of osme of the variables were close to 0, none of them were exactly 0, so the slope of the linear model would not be considered 0. 
+Although the slopes of some of the variables were close to 0, none of them were exactly 0, so the slope of the linear model would not be considered 0. 
 
 **-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
