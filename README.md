@@ -63,7 +63,7 @@ It follows from the data that Lots 1 and 2 are statistically significant as they
 
 ## Study Design: MechaCar vs Competition
 
-In the future, it would be beneficial to compare the results of the Mecha Car with cars from competing manufacturers. This analsis could include the above data, as well as highway fuel efficiency, city fuel efficiency, cost, and safety ratings. 
+In the future, it would be beneficial to compare the results of the Mecha Car with cars from competing manufacturers. This analysis could include the above data, as well as highway fuel efficiency, city fuel efficiency, cost, and safety ratings. 
 
 **-What metric or metrics are you going to test?**
 
